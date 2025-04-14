@@ -24,13 +24,3 @@ while(chute != numeroSecreto){
         tenntativas++;
     }
 }
-
-let palavraTentativas = tentativas > 1 ? 'tentativas' : 'tentativa';
-alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativas}.`);
-//if (tenntativas > 1){
-//    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas`);
-//} else {
-//    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa`);
-//}127.0.0.1 localhost
-
-//
